@@ -16,3 +16,7 @@
 - [x] Remove HL2 maps
 - [x] Add in mapvote system
 - [ ] Integrate mapvote system in with TTT
+
+## Client Related
+- [x] Touch up HUD and Scoreboard
+- [x] Add a failsafe menu just incase the server crashes
