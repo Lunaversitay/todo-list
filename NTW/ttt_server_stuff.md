@@ -14,3 +14,5 @@
 ## Map related
 - [x] Add new minecraft themed maps
 - [x] Remove HL2 maps
+- [x] Add in mapvote system
+- [ ] Integrate mapvote system in with TTT
