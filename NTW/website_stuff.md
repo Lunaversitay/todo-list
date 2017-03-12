@@ -5,7 +5,7 @@
 
 ## Staff list
 - [x] Sync ULX with our db
-- [] Create front-end for the staff page
-- [] Integrate mysql with the page
-- [] Sort ranks
-- [] Display ranks
+- [ ] Create front-end for the staff page
+- [ ] Integrate mysql with the page
+- [ ] Sort ranks
+- [ ] Display ranks
