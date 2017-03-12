@@ -1,6 +1,3 @@
-#lil-todo list
+#Just a simple to-do list for all my projects that are public
 
-just a todo list that's linked w/ my ide so I can keep track of what im doing
-now go away :)
-
-[Lunaversity.xyz tasks](https://github.com/Lunaversitay/todo-list/projects/1)
+Projects will be in their respective category directories, that's pretty much it.
