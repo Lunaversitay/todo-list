@@ -10,17 +10,17 @@
 ## Clients' Area
 - [x] Integrate db to site
 - [x] Add progression bar
-- [] Add functionality to the progression bar
-- [] Create requests modal
-- [] Add functionality for request modal
-- [] Add simple check to prevent request spam
+- [ ] Add functionality to the progression bar
+- [ ] Create requests modal
+- [ ] Add functionality for request modal
+- [ ] Add simple check to prevent request spam
 - [x] Add statistics to sidebar
 
 ## Administrative stuff
 - [x] Create administrative auth
 - [x] Integrate with the db
 - [x] Display all users
-- [] Create edit modals for all users
-- [] Functionality to edit users status
-- [] Functionality to review requests
-- [] Functionality to edit progress bars for users
+- [ ] Create edit modals for all users
+- [ ] Functionality to edit users status
+- [ ] Functionality to review requests
+- [ ] Functionality to edit progress bars for users
