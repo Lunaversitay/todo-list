@@ -20,3 +20,11 @@
 ## Client Related
 - [x] Touch up HUD and Scoreboard
 - [x] Add a failsafe menu just incase the server crashes
+- [ ] Re-design the RDM manager sometime
+
+## Bug related
+- [ ] Figure out what's causing the delay between map changes
+
+## Weapon Related
+- [ ] Add TFA Base
+- [ ] Make some TFA weapons into funround/traitor/detective weapons
